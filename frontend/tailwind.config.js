@@ -9,7 +9,7 @@ export default {
     extend: {
       colors: {
         dark: {
-          DEFAULT: colors.slate[900],
+          DEFAULT: colors.slate,
           primary: colors.slate[50],
           secondary: colors.slate[300],
           tertiary: colors.slate[400],
@@ -20,7 +20,7 @@ export default {
         },
         light: {
           DEFAULT: colors.slate[50],
-          primary: colors.slate[900],
+          primary: colors.slate,
           secondary: colors.slate[600],
           tertiary: colors.slate[500],
           title: colors.slate[900],
